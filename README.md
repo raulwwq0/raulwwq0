@@ -13,5 +13,5 @@ Anyway, you can find some things about me at <a href="https://raul-aguilar.netli
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=raulwwq0&theme=merko&hide_border=True&include_all_commits=True&count_private=True&hide=issues&show_icons=true" />
 </a>
 
-## 🎵 Currently Listening...
+## 🎵 Currently Listening on Spotify
 [![Spotify](https://novatorem-raulwwq0.vercel.app/api/spotify)](https://open.spotify.com/user/raulwwq0)
