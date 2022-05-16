@@ -1,6 +1,6 @@
 # Hello there! 
 
-I'm Raúl Aguilar and my main goal is becoming a developer without dying while trying.
+I'm Raúl Aguilar and my main goal is becoming a software developer without dying while trying.
 
 Anyway, you can find some things about me at <a href="https://raul-aguilar.netlify.app/">raul-aguilar</a>.
 
