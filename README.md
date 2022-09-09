@@ -7,7 +7,7 @@ Anyway, you can find some things about me at <a href="https://raul-aguilar.netli
 
 ## &#x1f4c8; My Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulwwq0&theme=merko&hide_border=true&layout=compact&card_width=250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulwwq0&theme=merko&hide_border=true&layout=compact&card_width=250&hide=c&langs_count=6" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=raulwwq0&theme=merko&hide_border=true&include_all_commits=false&count_private=true&hide=issues&show_icons=true" />
