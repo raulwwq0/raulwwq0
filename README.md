@@ -3,7 +3,7 @@
 I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
 
 Anyway, you can find some things about me at <a href="https://raul-aguilar.netlify.app/">raul-aguilar.netlify.app</a>.
-
+<br><br>
 
 ## My Stats  &#x1f4c8; 
 <a href="#">
@@ -12,6 +12,7 @@ Anyway, you can find some things about me at <a href="https://raul-aguilar.netli
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=raulwwq0&theme=merko&hide_border=true&include_all_commits=false&count_private=true&hide=issues&show_icons=true" />
 </a>
+<br><br>
 
 ## Contact Me  :mailbox_with_no_mail: 
 <a href='https://www.linkedin.com/in/raulaguilargarcia/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Raúl Aguilar García-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
