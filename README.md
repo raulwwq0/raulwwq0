@@ -13,7 +13,7 @@
       <li>Doing the 42 Cursus in 42 Málaga Campus</li>
     </ul>
     <br>
-    Anyway, you can find some things about me at <a href="https://raul-aguilar.netlify.app/">raul-aguilar.netlify.app</a>.
+    Anyway, you can find some things about me at <a href="https://raul-aguilar.netlify.app/" target="_blank">raul-aguilar.netlify.app</a>.
   </p>
 <div>
 <br>
