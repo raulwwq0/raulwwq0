@@ -1,5 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=40&lines=Hello+there!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=40&lines=Hello+there!)](https://git.io/typing-svg)
 
+<br>
 I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
 
 Anyway, you can find some things about me at <a href="https://raul-aguilar.netlify.app/">raul-aguilar.netlify.app</a>.
