@@ -6,11 +6,11 @@
   <p>
     I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
     <br><br>
-    I have been coding since I was 15. Most of my knowledge come from self-taught learning and some course I did.
+    I've been coding since I was 15. Most of my knowledge come from self-taught learning and some courses I did.
     I'm currently:
     <ul>
       <li>Studying Web Development in Politécnico Jesús Marín</li>
-      <li>Doing the Cursus in 42 Málaga</li>
+      <li>Doing the 42 Cursus in 42 Málaga Campus</li>
     </ul>
     <br>
     Anyway, you can find some things about me at <a href="https://raul-aguilar.netlify.app/">raul-aguilar.netlify.app</a>.
