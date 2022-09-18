@@ -1,4 +1,4 @@
-# Hello there! 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=40&lines=Hello+there!)](https://git.io/typing-svg)
 
 I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
 
