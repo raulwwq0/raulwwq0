@@ -2,7 +2,7 @@
 
 <br>
 <div>
-    <img align="right" src="https://github.com/raulwwq0/raulwwq0/blob/main/dancing-parrot-term.gif" width="400px">
+    <img align="right" src="https://raw.githubusercontent.com/raulwwq0/raulwwq0/main/dancing-parrot-term.gif" width="400px">
   <p>
     I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
     <br><br>
