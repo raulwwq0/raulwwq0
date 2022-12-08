@@ -20,10 +20,10 @@
 
 ## My Stats  &#x1f4c8; 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulwwq0&theme=merko&hide_border=true&layout=compact&card_width=250&hide=java,c&langs_count=6" />
+  <img align="center" src="https://github-readme-stats-raulwwq0.vercel.app/api/top-langs/?username=raulwwq0&theme=merko&hide_border=true&layout=compact&card_width=250&hide=java,c&langs_count=6" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=raulwwq0&theme=merko&hide_border=true&include_all_commits=false&count_private=true&hide=stars&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-raulwwq0.vercel.app/api/?username=raulwwq0&theme=merko&hide_border=true&include_all_commits=false&count_private=true&hide=stars&show_icons=true" />
 </a>
 <br><br>
 
