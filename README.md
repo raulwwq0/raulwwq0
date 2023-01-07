@@ -5,7 +5,7 @@
 </h1>
 <br>
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/raulwwq0/raulwwq0/main/dancing-parrot-term.gif" width="300px">
+    <img align="right" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="220px">
   <p>
     I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
     <br><br>
