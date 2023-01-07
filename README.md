@@ -5,7 +5,7 @@
 </h1>
 <br>
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/raulwwq0/raulwwq0/main/dancing-parrot-term.gif" width="400px">
+    <img align="right" src="https://raw.githubusercontent.com/raulwwq0/raulwwq0/main/dancing-parrot-term.gif" width="300px">
   <p>
     I'm Raúl Aguilar and my main goal is becoming a web developer without dying while trying.
     <br><br>
@@ -31,9 +31,9 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats-raulwwq0.vercel.app/api?username=raulwwq0&theme=merko&hide_border=true&include_all_commits=false&count_private=true&hide=stars&show_icons=true" />
 </a>
-<br><br>
 </div>
-
+<br><br>
+    
 <h2 align="center">:beginner:  Holopin Badges  :beginner:</h2>
 <br>
     
