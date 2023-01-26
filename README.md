@@ -12,6 +12,7 @@
     I've been coding since I was 15. Most of my knowledge come from self-taught learning and some courses I did.
     I'm currently:
     <ul>
+      <li>Being a Co-Organizer and Speaker in <a href="https://twitter.com/VuejsMalaga" target="_blank">Vue Málaga</a></li>
       <li>Studying Web Development in Politécnico Jesús Marín</li>
       <li>Doing the 42 Cursus in 42 Málaga Campus</li>
     </ul>
